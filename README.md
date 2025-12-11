@@ -17,7 +17,7 @@ Comparison of models with and without the new features
 
 2. Dataset
 
-The dataset used for all analysis.
+The construction simulation dataset used for all analysis.
 
 3. Stakeholder Report
 
